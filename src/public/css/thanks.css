@@ -1,0 +1,23 @@
+.thanks__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.thanks__heading {
+    margin-bottom: 40px;
+    text-align: center;
+    color: #82756a;
+}
+
+.form__button-home {
+    padding: 10px;
+    width: 30%;
+    height: 50px;
+    border: none;
+    border-radius: 3px;
+    background: #82756a;
+    color: #fff;
+    font-family: "Noto Serif JP", serif;
+    cursor: pointer;
+}
